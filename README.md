@@ -1,1 +1,2 @@
-# projeto-fiap
+# projeto-fiap-fintech-CoinKeeper
+# Aluno: Micaele Lima
